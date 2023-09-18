@@ -4,7 +4,7 @@ Este es el resultado final del curso de Data Analytics de Coderhouse con una dur
 ## Autor - 
 **Ernesto Porras**
 
-*[LinkedIn] (https://www.linkedin.com/in/eporras26/)
+* [LinkedIn] (https://www.linkedin.com/in/eporras26/)
 
 ## Contratación
 Si quieres contratarme escribeme a eporrasm26@gmail.com para consultas
